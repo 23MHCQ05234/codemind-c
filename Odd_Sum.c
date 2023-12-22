@@ -12,7 +12,7 @@ int main()
     {
         if(ar[i]%2!=0)
         {
-            sum=sum+ar[i];
+           sum=sum+ar[i];
         }
     }
     printf("%d",sum);
